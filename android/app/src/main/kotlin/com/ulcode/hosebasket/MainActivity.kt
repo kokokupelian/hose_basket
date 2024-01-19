@@ -1,4 +1,4 @@
-package com.example.hose_basket
+package com.ulcode.hosebasket
 
 import io.flutter.embedding.android.FlutterActivity
 
